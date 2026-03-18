@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá! 👋 Eu sou o Davi Procopio</h1>
+  <h3>Bem-vindo ao meu workspace digital 💻</h3>
+</div>  
 
-<!--
-**Davi-Procopio/Davi-Procopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaviProcopio&label=Visualizacoes%20do%20Perfil&color=007ACC&style=flat-square" alt="DaviProcopio Views" />
+  <img src="https://img.shields.io/badge/Estudante-SENAI-red?style=flat-square" alt="Estudante SENAI" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 👨‍💻 Sobre Mim
+
+```javascript
+const davi = {
+  cargoAtual: "Estudante de Ensino Médio & Entusiasta Tech",
+  instituicao: "SENAI - 2º Ano",
+  tecnologias: ["HTML5", "JavaScript", "Visual Studio"],
+  status: "Construindo o futuro, uma linha de código por vez"
+};
