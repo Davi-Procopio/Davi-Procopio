@@ -14,10 +14,29 @@
 
 ## 👨‍💻 Sobre Mim
 
-```javascript
-const davi = {
-  cargoAtual: "Estudante de Ensino Médio & Entusiasta Tech",
-  instituicao: "SENAI - 2º Ano",
-  tecnologias: ["HTML5", "JavaScript", "Visual Studio"],
-  status: "Construindo o futuro, uma linha de código por vez"
-};
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Objetivo</h3>
+      <p>Construindo o futuro através de linhas de código, focado em criar soluções web eficientes e modernas.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Formação</h3>
+      <p><b>SENAI</b><br>Ensino Médio Técnico - 2º Ano</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Localização</h3>
+      <p>Brasil 🇧🇷</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Atualmente</h3>
+      <p>Aprofundando em JavaScript e lógica de programação.</p>
+    </td>
+  </tr>
+</table>
+
+> "A tecnologia move o mundo, mas o código é o que o mantém rodando." 💡
+
+<br>
