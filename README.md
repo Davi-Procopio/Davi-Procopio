@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DaviProcopio&label=Visualizacoes%20do%20Perfil&color=007ACC&style=flat-square" alt="DaviProcopio Views" />
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Escola-SENAI-red?style=flat-square" alt="SENAI" />
+  <img src="https://img.shields.io/badge/Instituição-SESI%20/%20SENAI-red?style=flat-square" alt="SESI SENAI" />
 </div>
 
 <br>
@@ -19,17 +19,17 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Objetivo Principal</h3>
-      <p>Focado em dominar o ecossistema Web e criar soluções que unam design moderno com lógica eficiente.</p>
+      <p>Foco na solução de problemas de maneira prática e eficiente, aplicando lógica e criatividade no desenvolvimento de software.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Formação Acadêmica</h3>
-      <p><b>SENAI (Ensino Médio Técnico)</b><br>Atualmente cursando o 2º Ano.</p>
+      <p>Atualmente curso o <b>2º ano do Ensino Médio no SESI</b>, conciliando meus estudos com a formação técnica no <b>SENAI</b>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Atividade Atual</h3>
-      <p>Desenvolvendo projetos práticos com <b>JavaScript</b> e explorando o potencial do <b>Visual Studio</b>.</p>
+      <p>Cursando <b>Desenvolvimento de Sistemas</b>, com foco em fundamentos de programação e arquitetura de software.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💡 Mindset</h3>
@@ -44,10 +44,9 @@
 
 | Tecnologia | Nível Atual | Meta Próximo Semestre | Status |
 | :--- | :---: | :---: | :---: |
-| **HTML5 & CSS3** | Avançado | Frameworks (React/Tailwind) | 🟢 Concluído |
-| **JavaScript** | Intermediário | Manipulação de APIs & DOM | 🟡 Em Progresso |
-| **Visual Studio** | Intermediário | Debugging e Produtividade | 🔵 Praticando |
-| **Git / GitHub** | Iniciante | Fluxo de Trabalho (Branch/Merge) | 🟡 Em Progresso |
+| **JavaScript** | Iniciante | Manipulação de APIs & DOM | 🔵 Praticando |
+| **Visual Studio** | Iniciante | Debugging e Produtividade | 🔵 Praticando |
+| **Git / GitHub** | Iniciante | Fluxo de Trabalho (Branch/Merge) | 🔵 Praticando |
 
 <br>
 
@@ -65,20 +64,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-<br>
-
-## 📊 Desempenho no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviProcopio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="180px" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviProcopio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Frequentes" height="180px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviProcopio&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 <br>
